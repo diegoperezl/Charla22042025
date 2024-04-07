@@ -19,7 +19,7 @@ git clone https://github.com/diegoperezl/Charla06042024.git
 ```
 Entrar en la carpeta del repositorio
 ```bash
-cd Charla06042024
+cd Charla09042024
 ```
 
 ## Instalación del entorno
