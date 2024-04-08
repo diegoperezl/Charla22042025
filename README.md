@@ -15,7 +15,7 @@ El objetivo consiste en minimizar al máximo el cunsumo de RAM a la hora de util
 # Preparación
 ## Descargar el repositorio de GIT
 ```bash
-git clone https://github.com/diegoperezl/Charla06042024.git
+git clone https://github.com/diegoperezl/Charla09042024.git
 ```
 Entrar en la carpeta del repositorio
 ```bash
